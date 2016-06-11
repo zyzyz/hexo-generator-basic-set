@@ -1,0 +1,25 @@
+{
+  "name": "hexo-generator-basic-set",
+  "version": "0.1.0",
+  "description": "A set of basic blog page generators for Hexo, with multi-language supported.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "generator",
+    "multi",
+    "language",
+    "basic"
+  ],
+  "devDependencies": {
+    "hexo": "^3.0.0"
+  },
+  "dependencies": {
+    "hexo-pagination": "0.0.2",
+    "object-assign": "^4.0.1"
+  },
+  "author": "Sayuu Z",
+  "license": "MIT"
+}
