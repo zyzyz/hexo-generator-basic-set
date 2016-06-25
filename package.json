@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-basic-set",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A set of basic blog page generators for Hexo, with multi-language supported.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,17 @@
     "hexo-pagination": "0.0.2",
     "object-assign": "^4.0.1"
   },
-  "author": "Sayuu Z",
+  "author": {
+    "name": "Sayuu Z"
+  },
   "license": "MIT",
-  "readme": "ERROR: No README data found!"
+  "readme": "https://github.com/zyzyz/hexo-generator-basic-set/blob/master/ReadMe.md",
+  "gitHead": "482f0d5472b208da0c7598f70b41f2fd46ee1496",
+  "bugs": {
+    "url": "https://github.com/zyzyz/hexo-generator-basic-set/issues"
+  },
+  "homepage": "https://github.com/zyzyz/hexo-generator-basic-set#readme",
+  "_id": "hexo-generator-basic-set@0.1.0",
+  "_shasum": "70af8a9876e3c25da0e8576de01ef37bf53b096e",
+  "_from": "hexo-generator-basic-set@>=0.1.0 <0.2.0"
 }
